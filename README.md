@@ -49,6 +49,12 @@ Sydney Thunder won by 7 wkts
 
 
 
+|Name   	|Over   	|Maiden   	|Wide_ball   	| No ball   	| Run
+|---	|---	|---	|---	|---	|
+|1  	|1   	|1   	|1   	|1   	|
+|1   	|1   	|1   	|1   	|1   	|
+|1   	|1   	|1   	|1   	|1   	|
+
 
                                 INNINGS_2                                   
 
