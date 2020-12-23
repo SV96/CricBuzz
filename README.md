@@ -1,3 +1,6 @@
+https://forthebadge.com/images/badges/built-with-love.svg
+
+
 # CricBuzz
 Scrapped data using BeautifulSoup.
 Fetched data form https://www.cricbuzz.com/
