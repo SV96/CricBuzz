@@ -36,7 +36,7 @@ Sydney Thunder won by 7 wkts
 
 
                                    BOWLING                                                    
-Name         |  Over       | Maiden      | Wide_ball  | No_ball       | Run       |  Economy    |  Wickets
+Name         |  Over       |       Maiden      | Wide_ball  | No_ball       | Run       |  Economy    |  Wickets
 --------------------------  --------------------------   --------------------------   --------------------------  | --------------------------   --------------------------  --------------------------  -------------------------- 
 Milne        |     4       |  0          |  0         | 1             |  17       |  4.2        |    0
 Daniel Sams  |     4       |  0          |  0         | 1             |   40      | 10          |    1
