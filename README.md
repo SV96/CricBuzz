@@ -35,15 +35,19 @@ Sydney Thunder won by 7 wkts
 
 
 
-                                   BOWLING                                                    
-Name         |  Over       |       Maiden      | Wide_ball  | No_ball       | Run       |  Economy    |  Wickets
---------------------------  --------------------------   --------------------------   --------------------------  | --------------------------   --------------------------  --------------------------  -------------------------- 
-Milne        |     4       |  0          |  0         | 1             |  17       |  4.2        |    0
-Daniel Sams  |     4       |  0          |  0         | 1             |   40      | 10          |    1
-McAndrew     |     4       |  0          |  0         | 0             |  29       |  7.2        |    1
-T Sangha     |     4       |  0          |  0         | 0             |  36       |  9          |    1
-Cutting      |     3       |  0          |  0         | 0             |  16       |  5.3        |    1
-Chris Green  |     1       |  0          |  0         | 0             |   7       |  7          |    0
+                                   BOWLING  
+                                   
+                                   
+| Name         |  Over       |       Maiden       | Wide_ball  | No_ball       | Run       |  Economy    |  Wickets |
+|              |             |                    |            |               |           |             |          |
+| Milne        |     4       |  0                 |  0         | 1             |  17       |  4.2        |    0     |
+| Daniel Sams  |     4       |  0                 |  0         | 1             |   40      | 10          |    1     |
+| McAndrew     |     4       |  0                 |  0         | 0             |  29       |  7.2        |    1     |
+| T Sangha     |     4       |  0                 |  0         | 0             |  36       |  9          |    1     |
+| Cutting      |     3       |  0                 |  0         | 0             |  16       |  5.3        |    1     |
+| Chris Green  |     1       |  0                 |  0         | 0             |   7       |  7          |    0     |
+
+
 
 
                                 INNINGS_2                                   
