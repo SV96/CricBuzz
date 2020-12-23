@@ -20,15 +20,15 @@ Sydney Thunder won by 7 wkts
 
 
                                  BATTING                                       
-  Name              Out                            Run    Balls    4's    6's    strike_rate
-  ----------------  --------------------------  ------  -------  -----  -----  -------------
-  Josh Inglis (wk)  c Oliver Davies b McAndrew       4       11      0      0          36.36
-  Munro             c Milne b Cutting               25       22      2      1         113.64
-  Joe Clarke        run out (Hales)                  0        2      0      0           0
-  Mitchell Marsh    not out                         52       41      1      3         126.83
-  Turner (c)        c McAndrew b Daniel Sams        23       14      2      1         164.29
-  Jhye Richardson   c Khawaja b T Sangha             5        4      1      0         125
-  Bancroft          not out                         34       26      2      0         130.77
+  Name              |Out                            Run   | Balls   |  4's  |  6's  |  strike_rate
+  ----------------  |--------------------------  |------  |-------  |-----  |-----  |-------------
+  Josh Inglis (wk)  |c Oliver Davies b McAndrew  |     4  |     11  |   0   |    0  |       36.36
+  Munro             |c Milne b Cutting           |    25  |     22  |    2  |    1  |       113.64
+  Joe Clarke        |run out (Hales)             |     0  |      2  |    0  |    0  |         0
+  Mitchell Marsh    |not out                     |    52  |     41  |    1  |    3  |       126.83
+  Turner (c)        |c McAndrew b Daniel Sams    |   23   |    14   |    2  |    1  |       164.29
+  Jhye Richardson   |c Khawaja b T Sangha        |     5  |      4  |    1  |    0  |        125
+  Bancroft          |not out                     |    34  |     26  |    2  |    0  |       130.77
 
 
                                    BOWLING                                                    
