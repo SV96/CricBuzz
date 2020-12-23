@@ -16,7 +16,9 @@ Sydney Thunder won by 7 wkts
 
 
 
-                                INNINGS_1                                   
+                                INNINGS_1         
+                                
+                                
 
 
                                  BATTING 
@@ -51,8 +53,9 @@ Sydney Thunder won by 7 wkts
 
 
 
-
-                                INNINGS_2                                   
+                                INNINGS_2    
+                                
+                                
 
                                  BATTING  
                                  
@@ -66,14 +69,15 @@ Sydney Thunder won by 7 wkts
 
 
 
-                                   BOWLING                                                    
-Name                 Over    Maiden    Wide_ball    No_ball    Run    Economy    Wickets
------------------  ------  --------  -----------  ---------  -----  ---------  ---------
-Jason Behrendorff     4           0            0          1     32        8            1
-Jhye Richardson       4           0            0          1     31        7.8          0
-Andrew Tye            3.3         0            0          4     25        7.1          0
-Aaron Hardie          4           0            0          2     33        8.2          1
-Fawad Ahmed           4           0            0          0     34        8.5          1
+                                   BOWLING           
+                                   
+| Name              | Over | Maiden | Wide_ball | No_ball | Run | Economy | Wickets |
+|-------------------|------|--------|-----------|---------|-----|---------|---------|
+| Jason Behrendorff | 4    | 0      | 0         | 1       | 32  | 8       | 1       |
+| Jhye Richardson   | 4    | 0      | 0         | 1       | 31  | 7.8     | 0       |
+| Andrew Tye        | 3.3  | 0      | 0         | 4       | 25  | 7.1     | 0       |
+| Aaron Hardie      | 4    | 0      | 0         | 2       | 33  | 8.2     | 1       |
+| Fawad Ahmed       | 4    | 0      | 0         | 0       | 34  | 8.5     | 1       |
 
 --------------------------------------------------------------------------------------------------------------------------
 
