@@ -54,15 +54,16 @@ Sydney Thunder won by 7 wkts
 
                                 INNINGS_2                                   
 
+                                 BATTING  
+                                 
+| Name                | Out                          | Run | Ball | 4's | 6's | Strike_rate |
+|---------------------|------------------------------|-----|------|-----|-----|-------------|
+| Usman Khawaja       | c Behrendorff b Aaron Hardie | 21  | 25   | 3   | 0   | 84          |
+| Alex Hales          | b Behrendorff                | 0   | 1    | 0   | 0   | 0           |
+| Callum Ferguson (c) | not out                      | 61  | 53   | 7   | 1   | 115         |
+| Oliver Davies       | st Josh Inglis b Fawad Ahmed | 36  | 22   | 1   | 3   | 163.64      |
+| Ben Cutting         | not out                      | 29  | 16   | 4   | 1   | 181.25      |
 
-                                 BATTING                                       
-Name                 Out                              Run    Balls    4's    6's    strike_rate
--------------------  ----------------------------  ------  -------  -----  -----  -------------
-Usman Khawaja        c Behrendorff b Aaron Hardie      21       25      3      0          84
-Alex Hales           b Behrendorff                      0        1      0      0           0
-Callum Ferguson (c)  not out                           61       53      7      1         115.09
-Oliver Davies        st Josh Inglis b Fawad Ahmed      36       22      1      3         163.64
-Ben Cutting          not out                           29       16      4      1         181.25
 
 
                                    BOWLING                                                    
